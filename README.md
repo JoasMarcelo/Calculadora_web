@@ -1,1 +1,1 @@
-Descrição: uma calculadora web
+Descrição: uma calculadora we
