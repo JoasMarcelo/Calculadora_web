@@ -1,1 +1,2 @@
-<h1>Descrição: uma calculadora we</h1>
+<h2>Calculadora Web!</h2>
+<p>Nossa calculadora web é uma ferramenta simples e eficiente, projetada para realizar cálculos rápidos e precisos diretamente no seu navegador. Com uma interface limpa e intuitiva, você pode somar, subtrair, multiplicar, dividir e realizar outras operações matemáticas básicas sem complicações. Desenvolvida em HTML, CSS e JavaScript, ela funciona em qualquer dispositivo, seja no seu celular, tablet ou computador. Perfeita para uso diário, seja para estudar, trabalhar ou calcular finanças pessoais. Simples, rápida e sempre acessível, nossa calculadora web está aqui para facilitar a sua vida!</p>
